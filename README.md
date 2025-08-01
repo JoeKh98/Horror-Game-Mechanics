@@ -19,6 +19,6 @@ These systems were developed as reusable, scalable building blocks for a narrati
 
 ## 📌 Note
 
-Blueprint + C++ implementation. Designed with modularity and clean structure in mind.
+C++ implementation. Designed with modularity and clean structure in mind. ONLY SOURCE CODE
 
 ---
